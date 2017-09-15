@@ -9,3 +9,4 @@ $(function(){
 $(function(){
     $('#otherAnim').animate({"right":"0px"},975, "swing");
 });
+

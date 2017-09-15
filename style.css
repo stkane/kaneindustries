@@ -20,6 +20,10 @@ p {
     height: 400px;
 }
 
+.features_chrono {
+    height: 300px;
+}
+
 .border-box {
     box-sizing: border-box;
 }
