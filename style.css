@@ -20,9 +20,17 @@ p {
     height: 400px;
 }
 
+#particles-js {
+    background-color: #333;
+    background-attachment: fixed;
+    background-position: center;
+    height: 400px;
+}
+
 .features_chrono {
     height: 300px;
 }
+
 
 .border-box {
     box-sizing: border-box;

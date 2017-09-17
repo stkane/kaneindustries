@@ -10,3 +10,4 @@ $("#extendbutton").click(function() {
 		$("#change-chev").html(`<i class="fa fa-chevron-down" aria-hidden="true"></i>`);
 	}
 });
+
