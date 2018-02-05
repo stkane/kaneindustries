@@ -7,11 +7,44 @@ p {
   font-family: avenir next;
 }
 
+.custom_margin {
+    margin-top: 2.25rem
+}
+
+.grocery_margin {
+    margin: auto;
+    margin-bottom: 15%
+}
+
+#triangle {
+    height: 280px;
+    width: 230px;
+    vertical-align: bottom;
+}
 /*#repeat { 
   background-repeat: repeat;
   background: url(./assets/scaled_chrono2.png);
 }
 */
+
+.grocery_pattern {
+    background-image: url("./assets/cart-of-ecommerce.svg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: repeat;
+    background-color: #333;
+    background-size: 100px;
+    height: 400px;
+}
+
+/* <div>cart-of-ecommerce icon made by 
+https://www.flaticon.com/authors/designerz-base 
+"Designerz Base">Designerz Base from 
+"https://www.flaticon.com/" Flaticon 
+www.flaticon.com is licensed by 
+"http://creativecommons.org/licenses/by/3.0/" 
+"Creative Commons BY 3.0" CC 3.0 BY*/
+
 .parallax {
     background-image: url("./assets/scaled_chrono2.png");
     background-attachment: fixed;
@@ -19,6 +52,18 @@ p {
     background-repeat: repeat;
     height: 400px;
 }
+
+#particles-js {
+    background-color: #333;
+    background-attachment: fixed;
+    background-position: center;
+    height: 400px;
+}
+
+.features_chrono {
+    height: 300px;
+}
+
 
 .border-box {
     box-sizing: border-box;
